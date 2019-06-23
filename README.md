@@ -1,4 +1,4 @@
-### A basic WordPress website that uses front end languages, with plans to implement back end languages for e-commerce abilities.
+### A basic WordPress website with a custom theme created from scratch that uses front end languages, with plans to implement back end languages for e-commerce abilities.
 
 ___
 
