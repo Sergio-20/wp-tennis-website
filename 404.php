@@ -10,7 +10,7 @@
       <img src="https://images.pexels.com/photos/342361/pexels-photo-342361.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Tennis Court." />
 
       <h2>You're Out Of The Ball Park!</h2>
-      <a href="./home">Click Here To Return To The Homepage</a>
+      <a href="/wordpress/home/">Click Here To Return To The Homepage</a>
       <hr />
       <p>The page you were looking for could not be found.</p>
       <p>Our development team is working to resolve this issue, thank you.</p>
