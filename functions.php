@@ -5,6 +5,7 @@
     wp_enqueue_style( 'bootstrap.css', 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css' );
     wp_enqueue_style( 'fontawesome.css', 'https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' );
     wp_enqueue_style( 'slick.css', 'http://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css' );
+    wp_enqueue_style( 'faqs.css', get_template_directory_uri().'/css/faqs.css' );
     wp_enqueue_style( 'style.css', get_template_directory_uri().'/style.css' );
   }
 

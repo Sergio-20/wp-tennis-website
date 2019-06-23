@@ -150,7 +150,7 @@
 
     <div id="contact"></div>
     <section>
-      <?php echo do_shortcode('[ninja_form id=1]'); ?>
+      <?php echo do_shortcode( '[ninja_form id=1]' ); ?>
     </section>
 
     <!--  End Of Contact Module -->

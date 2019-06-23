@@ -25,7 +25,7 @@
         <ul>
 
           <li class="bold">Support</li>
-          <a href="#"><li>Help/FAQ</li></a>
+          <a href="./help"><li>Help/FAQ</li></a>
 
         </ul>
 

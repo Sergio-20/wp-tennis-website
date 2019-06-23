@@ -1,0 +1,30 @@
+/* IDs */
+#comment {
+  display: block;
+  margin: 0 auto;
+}
+
+/* Classes */
+.ufaq-faq-title-text {
+  margin-top: 5rem;
+}
+
+.ufaq-faq-title-text h4 {
+  color: #333;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.ufaq-faq-body {
+  text-align: center;
+}
+
+/* Media Queries */
+@media only screen and ( min-width: 1024px )
+{
+  .ewd-ufaq-post-margin-symbol {
+    position: relative;
+    left: 35rem;
+  }
+}
