@@ -1,9 +1,10 @@
 jQuery( document ).ready( () => {
 
   jQuery( document ).scroll( () => {
-
-    jQuery( '.back-to-top' ).fadeIn( 'slow' );
-
+    if( jQuery( document ).width() >= 1024 )
+    {
+      jQuery( '.back-to-top' ).fadeIn( 'slow' );
+    }  
   });
 
 });
