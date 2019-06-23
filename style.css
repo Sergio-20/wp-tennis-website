@@ -1,0 +1,170 @@
+/*
+Theme Name: Custom Theme 1
+Author: Sergio Gutierrez
+Author URI: https://www.sergiogutierrez.dev
+Description: First Theme I made.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/**** CSS Animations ****/
+
+/* IDs */
+
+#gear-section {
+  display: grid;
+  grid-template-columns: repeat( auto-fit, minmax( 250px, 1fr ) );
+  margin: 5rem auto;
+  text-align: center;
+}
+
+#gear-section a {
+  color: #333;
+}
+
+#gear-section img {
+  height: 50%;
+  max-width: 100%;
+}
+
+#location {
+  margin-bottom: 14rem;
+}
+
+/* Classes */
+
+.bold {
+  font-weight: bold;
+}
+
+.hero-text {
+  background: transparent;
+  color: #fff;
+  display: block;
+  margin: 0 auto;
+  font-style: Arial;
+  position: relative;
+  text-align: center;
+  top: -10rem;
+}
+
+.hero-text h2, .hero-text h3 {
+  font-size: 5rem;
+}
+
+.more-info {
+  color: #fff;
+  font-size: 1.5rem;
+  transition: transform 200ms ease-in-out;
+}
+
+.more-info:hover {
+  cursor: pointer;
+  text-decoration: underline;
+  transform: translate( 0rem, 2rem );
+}
+
+.more-info .fa-caret-down {
+  font-size: 5rem;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.nav-icons i {
+  color: #fff;
+  font-size: 2rem;
+}
+
+.store-location {
+  border: none;
+  display: block;
+  height: 450px;
+  margin: 0 auto;
+  width: 600px;
+}
+
+/* General Elements */
+
+a {
+  color: #fff;
+}
+
+a:hover, i:hover {
+  color: #70aed2;
+}
+
+/******** START OF HEADER AND FOOTER STYLES ********/
+
+body {
+  overflow-x: hidden !important;
+  scroll-behavior: smooth;
+}
+
+header, footer {
+  display: grid;
+  grid-template-columns: repeat( autofit, minamx( 250px, 1fr ) );
+  justify-content: center;
+}
+
+footer {
+  background: #5D5C61;
+  color: #fff;
+  margin-top: 10rem;
+  padding-bottom: 7rem;
+}
+
+footer ul, header ul {
+  color: #7395AE;
+  display: inline-block;
+  margin: 3rem 5rem;
+}
+
+header {
+  background: url( 'https://images.pexels.com/photos/342359/pexels-photo-342359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940' ) center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  max-width: 100%;
+}
+
+header li {
+  background: #5D5C61;
+  display: inline-block;
+  padding: 0.5rem 2rem;
+}
+
+header ul li, footer ul li {
+
+  list-style-type: none;
+
+}
+
+/******** END OF HEADER AND FOOTER STYLES ********/
+
+
+/**** Media Queries ****/
+
+@media only screen and ( max-width: 480px )
+{
+  .nav-categories {
+    display: none;
+  }
+
+  .nav-icons {
+    margin: 1rem auto;
+    margin-bottom: 20rem;
+  }
+
+  .nav-icons li {
+    display: inline-block;
+    width: 30%;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+  }
+
+}
