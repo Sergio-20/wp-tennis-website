@@ -1,3 +1,10 @@
+<?php
+/*
+  Template Name: Homepage
+*/
+?>
+
+
 <?php get_header(); ?>
 
   <main>
@@ -138,6 +145,15 @@
     </section>
 
     <!--  End Of Location Module -->
+
+    <!--  Start Of Contact Module -->
+
+    <div id="contact"></div>
+    <section>
+      <?php echo do_shortcode('[ninja_form id=1]'); ?>
+    </section>
+
+    <!--  End Of Contact Module -->
 
   </main>
 

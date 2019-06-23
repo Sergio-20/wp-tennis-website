@@ -15,38 +15,36 @@
 
     <header>
 
-      <nav>
+        <nav>
 
-        <ul class="nav-icons">
-          <a href="#"><li><i class="fa fa-rss" aria-hidden="true"></i></li></a>
-          <a href="#location"><li><i class="fa fa-location-arrow"></i></li></a>
-          <a href="#"><li><i class="fa fa-search"></i></li></a>
-        </ul>
+          <ul class="nav-icons">
+            <a href="./blog"><li><i class="fa fa-rss" aria-hidden="true"></i></li></a>
+            <a href="#location"><li><i class="fa fa-location-arrow"></i></li></a>
+            <a href="#"><li><i class="fa fa-search"></i></li></a>
+          </ul>
 
-        <ul class="nav-categories">
+          <ul class="nav-categories">
 
-          <a href="#"><li>Women</li></a>
-          <a href="#"><li>Men</li></a>
-          <a href="#about"><li>About</li></a>
+            <a href="#"><li>Women</li></a>
+            <a href="#"><li>Men</li></a>
+            <a href="#about"><li>About</li></a>
 
-        </ul>
+          </ul>
 
-      </nav>
+        </nav>
 
-      <div class="hero-text">
-        <h2>Make It To The Big Stage</h2>
-        <h3>Only With The Best Gear</h3>
-      </div>
+        <div class="hero-text">
+          <h2>Make It To The Big Stage</h2>
+          <h3>Only With The Best Gear</h3>
+        </div>
 
-      <div class="more-info">
-        <a href="#gear-marker">
-          <p class="bold text-center">Scroll Down For More</p>
-          <i class="fa fa-caret-down" aria-hidden="true"></i>
-        </a>
-      </div>
+        <div class="more-info">
+          <a href="#gear-marker">
+            <p class="bold text-center">Scroll Down For More</p>
+            <i class="fa fa-caret-down" aria-hidden="true"></i>
+          </a>
+        </div>
 
-      <a href="#"><i class="back-to-top fa fa-caret-square-o-up" aria-hidden="true"></i>
-</i>
-</i></a>
+        <a href="#"><i class="back-to-top fa fa-caret-square-o-up" aria-hidden="true"></i></a>
 
     </header>
