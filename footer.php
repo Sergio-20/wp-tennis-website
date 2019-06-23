@@ -15,7 +15,7 @@
         <ul>
 
           <li class="bold">Site Navigation</li>
-          <a href="<?php bloginfo( 'home' ); ?>"><li>Home</li></a>
+          <a href="./home"><li>Home</li></a>
           <a href="#about"><li>About</li></a>
           <a href="#contact"><li>Contact</li></a>
           <a href="#"><li>Careers</li></a>
