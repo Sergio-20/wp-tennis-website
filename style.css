@@ -15,6 +15,20 @@ Use it to make something cool, have fun, and share what you've learned with othe
 
 /* IDs */
 
+#about {
+  margin-top: 15rem;
+}
+
+#about+section p {
+  font-size: 2.5rem;
+  margin: 5rem 3rem;
+}
+
+#about+section img {
+  height: auto;
+  max-width: 100%;
+}
+
 #gear-section {
   display: grid;
   grid-template-columns: repeat( auto-fit, minmax( 250px, 1fr ) );
@@ -36,6 +50,19 @@ Use it to make something cool, have fun, and share what you've learned with othe
 }
 
 /* Classes */
+
+.back-to-top {
+  color: lime;
+  display: none;
+  font-size: 4rem;
+  position: fixed;
+  left: 90%;
+  z-index: 1;
+}
+
+.back-to-top:hover {
+  color: navy;
+}
 
 .bold {
   font-weight: bold;

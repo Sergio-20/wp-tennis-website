@@ -27,7 +27,7 @@
 
           <a href="#"><li>Women</li></a>
           <a href="#"><li>Men</li></a>
-          <a href="#"><li>About</li></a>
+          <a href="#about"><li>About</li></a>
 
         </ul>
 
@@ -44,5 +44,9 @@
           <i class="fa fa-caret-down" aria-hidden="true"></i>
         </a>
       </div>
+
+      <a href="#"><i class="back-to-top fa fa-caret-square-o-up" aria-hidden="true"></i>
+</i>
+</i></a>
 
     </header>

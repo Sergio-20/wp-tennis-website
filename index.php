@@ -2,6 +2,8 @@
 
   <main>
 
+    <!--  Start Of Gear Module -->
+
     <div id="gear-marker"></div>
 
     <section id="gear-section">
@@ -91,6 +93,9 @@
 
     </section>
 
+    <!--  End Of Gear Module -->
+
+    <!--  Start Of Location Module -->
 
     <div id="location"></div>
     <section>
@@ -103,6 +108,34 @@
       </iframe>
 
     </section>
+
+    <!--  End Of Location Module -->
+
+    <!--  Start Of About Module -->
+
+    <div id="about"></div>
+    <section>
+
+      <article class="text-center">
+
+        <h2>About Us</h2>
+        <img src="https://images.pexels.com/photos/171568/pexels-photo-171568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="The grand stage: the tennis championship." />
+        <p>
+          We were established over 20 years ago with the intent to help tennis players have the gear they deserve. High quality
+          shirts, shorts, rackets, and various other essentials, were sold to elite tennis players to help them on their journey towards
+          being a world champion.
+        </p>
+
+        <p>
+          We continue to provide high caliber merchandise to tennis athletes who wish to only wear and feel their best.
+          They strive for <strong>strength</strong>, <strong>speed</strong> and <strong>perseverance</strong>, just like our gear.
+        </p>
+
+      </article>
+
+    </section>
+
+    <!--  End Of About Module -->
 
   </main>
 

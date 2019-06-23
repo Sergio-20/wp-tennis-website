@@ -16,7 +16,7 @@
 
           <li class="bold">Site Navigation</li>
           <a href="#"><li>Home</li></a>
-          <a href="#"><li>About</li></a>
+          <a href="#about"><li>About</li></a>
           <a href="#"><li>Contact</li></a>
           <a href="#"><li>Careers</li></a>
 

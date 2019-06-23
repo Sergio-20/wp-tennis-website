@@ -15,6 +15,7 @@
     wp_enqueue_script( 'jquery', 'https://code.jquery.com/jquery-3.4.1.min.js' );
     wp_enqueue_script( 'slick.js', 'http://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js' );
     wp_enqueue_script( 'homepage-gear-slider', get_template_directory_uri().'/js/homepage-gear-slider.js' );
+    wp_enqueue_script( 'arrowAppearTop', get_template_directory_uri().'/js/arrowAppearTop.js' );
   }
 
   add_action( 'wp_enqueue_scripts', 'custom_theme_scripts' );
