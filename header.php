@@ -18,7 +18,7 @@
       <nav>
 
         <ul class="nav-icons">
-          <a href="#"><li><i class="fa fa-bars"></i></li></a>
+          <a href="#"><li><i class="fa fa-rss" aria-hidden="true"></i></li></a>
           <a href="#location"><li><i class="fa fa-location-arrow"></i></li></a>
           <a href="#"><li><i class="fa fa-search"></i></li></a>
         </ul>
