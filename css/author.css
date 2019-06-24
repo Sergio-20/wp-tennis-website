@@ -1,5 +1,15 @@
 /* IDs */
 
-#author-content {
-  
+#author-content a {
+  color: #333;
+}
+
+#author-content a:hover {
+  color: #17A2BB;
+}
+
+#author-content li {
+  font-size: 2.5rem;
+  list-style-type: none;
+  margin: 5rem auto;
 }

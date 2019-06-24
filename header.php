@@ -18,7 +18,7 @@
         <nav>
 
           <ul class="nav-icons">
-            <a href="./blog"><li><i class="fa fa-rss" aria-hidden="true"></i></li></a>
+            <a href="/wordpress/blog"><li><i class="fa fa-rss" aria-hidden="true"></i></li></a>
             <a href="#location"><li><i class="fa fa-location-arrow"></i></li></a>
             <a href="#"><li><i class="fa fa-search"></i></li></a>
           </ul>
@@ -46,6 +46,6 @@
         </div>
 
         <a href="#"><i class="back-to-top fa fa-caret-square-o-up" aria-hidden="true"></i></a>
-        <a href="./home"><i class="go-home fa fa-home" aria-hidden="true"></i></a>
+        <a href="/wordpress/home"><i class="go-home fa fa-home" aria-hidden="true"></i></a>
 
     </header>

@@ -7,6 +7,7 @@
     wp_enqueue_style( 'slick.css', 'http://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css' );
     wp_enqueue_style( 'blog.css', get_template_directory_uri().'/css/blog.css' );
     wp_enqueue_style( 'author.css', get_template_directory_uri().'/css/author.css' );
+    wp_enqueue_style( 'category.css', get_template_directory_uri().'/css/category.css' );
     wp_enqueue_style( 'faqs.css', get_template_directory_uri().'/css/faqs.css' );
     wp_enqueue_style( 'style.css', get_template_directory_uri().'/style.css' );
   }
