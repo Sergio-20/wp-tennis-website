@@ -17,26 +17,26 @@
 
       <article class="tops">
 
-        <a href="#"><h2>Red Tops</h2><img src="https://as2.ftcdn.net/jpg/01/34/40/15/500_F_134401510_luGRkLfDfOBalLjr4rtQDouLQdsqMF3x.jpg" alt="" /><h2 class="bold">$20</h2></a>
-        <a href="#"><h2>Black Tops</h2><img src="https://as1.ftcdn.net/jpg/01/33/77/98/500_F_133779857_4VYyM1TYCpKaji5MMKIfE0oBhVUM2sfw.jpg" alt="" /><h2 class="bold">$20</h2></a>
-        <a href="#"><h2>Orange Tops</h2><img src="https://as1.ftcdn.net/jpg/01/86/88/52/500_F_186885236_aechpiS0x85McEsX0QVBv8vjRGdLRWIr.jpg" alt="" /><h2 class="bold">$15</h2></a>
+        <a href="#"><h2>Red Tops</h2><img src="https://as2.ftcdn.net/jpg/01/34/40/15/500_F_134401510_luGRkLfDfOBalLjr4rtQDouLQdsqMF3x.jpg" alt="" /><h2 class="bold">$20 <?php echo do_shortcode( "[wpecpp price='19.99']" ); ?></h2></a>
+        <a href="#"><h2>Black Tops</h2><img src="https://as1.ftcdn.net/jpg/01/33/77/98/500_F_133779857_4VYyM1TYCpKaji5MMKIfE0oBhVUM2sfw.jpg" alt="" /><h2 class="bold">$20 <?php echo do_shortcode( "[wpecpp price='19.99']" ); ?></h2></a>
+        <a href="#"><h2>Orange Tops</h2><img src="https://as1.ftcdn.net/jpg/01/86/88/52/500_F_186885236_aechpiS0x85McEsX0QVBv8vjRGdLRWIr.jpg" alt="" /><h2 class="bold">$15 <?php echo do_shortcode( "[wpecpp price='14.99']" ); ?></h2></a>
 
       </article>
 
       <article class="bottoms">
 
-        <a href="#"><h2>Black Shorts</h2><img src="https://image.shutterstock.com/z/stock-photo-sport-shorts-black-color-front-and-back-view-isolated-on-white-479419078.jpg" alt="" /><h2 class="bold">$20</h2></a>
-        <a href="#"><h2>Red Shorts</h2><img src="https://as1.ftcdn.net/jpg/00/74/62/74/500_F_74627484_h2viCxYgr5t1Z1ynOiBE49gQ9Y7I4axc.jpg" alt="" /><h2 class="bold">$16</h2></a>
-        <a href="#"><h2>Purple Shorts</h2><img src="https://as2.ftcdn.net/jpg/01/63/21/59/500_F_163215910_k6WT2Aw4rBff8cepuWKuogFwA3f8KXtv.jpg" alt="" /><h2 class="bold">$23</h2></a>
-        <a href="#"><h2>Blue Shorts</h2><img src="https://as2.ftcdn.net/jpg/00/67/42/93/500_F_67429362_6bvybeHsRbOITLRsZEmxzHCMJPL1EJcB.jpg" alt="" /><h2 class="bold">$19</h2></a>
+        <a href="#"><h2>Black Shorts</h2><img src="https://image.shutterstock.com/z/stock-photo-sport-shorts-black-color-front-and-back-view-isolated-on-white-479419078.jpg" alt="" /><h2 class="bold">$20 <?php echo do_shortcode( "[wpecpp price='19.99']" ); ?></h2></a>
+        <a href="#"><h2>Red Shorts</h2><img src="https://as1.ftcdn.net/jpg/00/74/62/74/500_F_74627484_h2viCxYgr5t1Z1ynOiBE49gQ9Y7I4axc.jpg" alt="" /><h2 class="bold">$16 <?php echo do_shortcode( "[wpecpp price='15.99']" ); ?></h2></a>
+        <a href="#"><h2>Purple Shorts</h2><img src="https://as2.ftcdn.net/jpg/01/63/21/59/500_F_163215910_k6WT2Aw4rBff8cepuWKuogFwA3f8KXtv.jpg" alt="" /><h2 class="bold">$23 <?php echo do_shortcode( "[wpecpp price='22.99']" ); ?></h2></a>
+        <a href="#"><h2>Blue Shorts</h2><img src="https://as2.ftcdn.net/jpg/00/67/42/93/500_F_67429362_6bvybeHsRbOITLRsZEmxzHCMJPL1EJcB.jpg" alt="" /><h2 class="bold">$19 <?php echo do_shortcode( "[wpecpp price='18.99']" ); ?></h2></a>
 
       </article>
 
       <article class="gear">
 
-        <a href="#"><h2>Sand Racket</h2><img src="https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /><h2 class="bold">$10</h2></a>
-        <a href="#"><h2>Balanced Racket</h2><img src="https://images.pexels.com/photos/1432039/pexels-photo-1432039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /><h2 class="bold">$20</h2></a>
-        <a href="#"><h2>Tennis Balls</h2><img src="https://images.pexels.com/photos/226586/pexels-photo-226586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /><h2 class="bold">$8</h2></a>
+        <a href="#"><h2>Sand Racket</h2><img src="https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /><h2 class="bold">$10 <?php echo do_shortcode( "[wpecpp price='9.99']" ); ?></h2></a>
+        <a href="#"><h2>Balanced Racket</h2><img src="https://images.pexels.com/photos/1432039/pexels-photo-1432039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /><h2 class="bold">$20 <?php echo do_shortcode( "[wpecpp price='19.99']" ); ?></h2></a>
+        <a href="#"><h2>Tennis Balls</h2><img src="https://images.pexels.com/photos/226586/pexels-photo-226586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /><h2 class="bold">$8 <?php echo do_shortcode( "[wpecpp price='7.99']" ); ?></h2></a>
 
       </article>
 
@@ -46,26 +46,26 @@
 
       <article class="tops">
 
-        <a href="#"><h2>Red Tops</h2><img src="https://as2.ftcdn.net/jpg/01/34/40/15/500_F_134401510_luGRkLfDfOBalLjr4rtQDouLQdsqMF3x.jpg" alt="" /><h2 class="bold">$20</h2></a>
-        <a href="#"><h2>Black Tops</h2><img src="https://as1.ftcdn.net/jpg/01/33/77/98/500_F_133779857_4VYyM1TYCpKaji5MMKIfE0oBhVUM2sfw.jpg" alt="" /><h2 class="bold">$20</h2></a>
-        <a href="#"><h2>Orange Tops</h2><img src="https://as1.ftcdn.net/jpg/01/86/88/52/500_F_186885236_aechpiS0x85McEsX0QVBv8vjRGdLRWIr.jpg" alt="" /><h2 class="bold">$15</h2></a>
+        <a href="#"><h2>Red Tops</h2><img src="https://as2.ftcdn.net/jpg/01/34/40/15/500_F_134401510_luGRkLfDfOBalLjr4rtQDouLQdsqMF3x.jpg" alt="" /><h2 class="bold">$20 <?php echo do_shortcode( "[wpecpp price='19.99']" ); ?></h2></a>
+        <a href="#"><h2>Black Tops</h2><img src="https://as1.ftcdn.net/jpg/01/33/77/98/500_F_133779857_4VYyM1TYCpKaji5MMKIfE0oBhVUM2sfw.jpg" alt="" /><h2 class="bold">$20 <?php echo do_shortcode( "[wpecpp price='19.99']" ); ?></h2></a>
+        <a href="#"><h2>Orange Tops</h2><img src="https://as1.ftcdn.net/jpg/01/86/88/52/500_F_186885236_aechpiS0x85McEsX0QVBv8vjRGdLRWIr.jpg" alt="" /><h2 class="bold">$15 <?php echo do_shortcode( "[wpecpp price='14.99']" ); ?></h2></a>
 
       </article>
 
       <article class="bottoms">
 
-        <a href="#"><h2>Black Shorts</h2><img src="https://image.shutterstock.com/z/stock-photo-sport-shorts-black-color-front-and-back-view-isolated-on-white-479419078.jpg" alt="" /><h2 class="bold">$20</h2></a>
-        <a href="#"><h2>Red Shorts</h2><img src="https://as1.ftcdn.net/jpg/00/74/62/74/500_F_74627484_h2viCxYgr5t1Z1ynOiBE49gQ9Y7I4axc.jpg" alt="" /><h2 class="bold">$16</h2></a>
-        <a href="#"><h2>Purple Shorts</h2><img src="https://as2.ftcdn.net/jpg/01/63/21/59/500_F_163215910_k6WT2Aw4rBff8cepuWKuogFwA3f8KXtv.jpg" alt="" /><h2 class="bold">$23</h2></a>
-        <a href="#"><h2>Blue Shorts</h2><img src="https://as2.ftcdn.net/jpg/00/67/42/93/500_F_67429362_6bvybeHsRbOITLRsZEmxzHCMJPL1EJcB.jpg" alt="" /><h2 class="bold">$19</h2></a>
+        <a href="#"><h2>Black Shorts</h2><img src="https://image.shutterstock.com/z/stock-photo-sport-shorts-black-color-front-and-back-view-isolated-on-white-479419078.jpg" alt="" /><h2 class="bold">$20 <?php echo do_shortcode( "[wpecpp price='19.99']" ); ?></h2></a>
+        <a href="#"><h2>Red Shorts</h2><img src="https://as1.ftcdn.net/jpg/00/74/62/74/500_F_74627484_h2viCxYgr5t1Z1ynOiBE49gQ9Y7I4axc.jpg" alt="" /><h2 class="bold">$16 <?php echo do_shortcode( "[wpecpp price='15.99']" ); ?></h2></a>
+        <a href="#"><h2>Purple Shorts</h2><img src="https://as2.ftcdn.net/jpg/01/63/21/59/500_F_163215910_k6WT2Aw4rBff8cepuWKuogFwA3f8KXtv.jpg" alt="" /><h2 class="bold">$23 <?php echo do_shortcode( "[wpecpp price='22.99']" ); ?></h2></a>
+        <a href="#"><h2>Blue Shorts</h2><img src="https://as2.ftcdn.net/jpg/00/67/42/93/500_F_67429362_6bvybeHsRbOITLRsZEmxzHCMJPL1EJcB.jpg" alt="" /><h2 class="bold">$19 <?php echo do_shortcode( "[wpecpp price='18.99']" ); ?></h2></a>
 
       </article>
 
       <article class="gear">
 
-        <a href="#"><h2>Sand Racket</h2><img src="https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /><h2 class="bold">$10</h2></a>
-        <a href="#"><h2>Balanced Racket</h2><img src="https://images.pexels.com/photos/1432039/pexels-photo-1432039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /><h2 class="bold">$20</h2></a>
-        <a href="#"><h2>Tennis Balls</h2><img src="https://images.pexels.com/photos/226586/pexels-photo-226586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /><h2 class="bold">$8</h2></a>
+        <a href="#"><h2>Sand Racket</h2><img src="https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /><h2 class="bold">$10 <?php echo do_shortcode( "[wpecpp price='9.99']" ); ?></h2></a>
+        <a href="#"><h2>Balanced Racket</h2><img src="https://images.pexels.com/photos/1432039/pexels-photo-1432039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /><h2 class="bold">$20 <?php echo do_shortcode( "[wpecpp price='19.99']" ); ?></h2></a>
+        <a href="#"><h2>Tennis Balls</h2><img src="https://images.pexels.com/photos/226586/pexels-photo-226586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /><h2 class="bold">$8 <?php echo do_shortcode( "[wpecpp price='7.99']" ); ?></h2></a>
 
       </article>
 
@@ -75,26 +75,26 @@
 
       <article class="tops">
 
-        <a href="#"><h2>Red Tops</h2><img src="https://as2.ftcdn.net/jpg/01/34/40/15/500_F_134401510_luGRkLfDfOBalLjr4rtQDouLQdsqMF3x.jpg" alt="" /><h2 class="bold">$20</h2></a>
-        <a href="#"><h2>Black Tops</h2><img src="https://as1.ftcdn.net/jpg/01/33/77/98/500_F_133779857_4VYyM1TYCpKaji5MMKIfE0oBhVUM2sfw.jpg" alt="" /><h2 class="bold">$20</h2></a>
-        <a href="#"><h2>Orange Tops</h2><img src="https://as1.ftcdn.net/jpg/01/86/88/52/500_F_186885236_aechpiS0x85McEsX0QVBv8vjRGdLRWIr.jpg" alt="" /><h2 class="bold">$15</h2></a>
+        <a href="#"><h2>Red Tops</h2><img src="https://as2.ftcdn.net/jpg/01/34/40/15/500_F_134401510_luGRkLfDfOBalLjr4rtQDouLQdsqMF3x.jpg" alt="" /><h2 class="bold">$20 <?php echo do_shortcode( "[wpecpp price='19.99']" ); ?></h2></a>
+        <a href="#"><h2>Black Tops</h2><img src="https://as1.ftcdn.net/jpg/01/33/77/98/500_F_133779857_4VYyM1TYCpKaji5MMKIfE0oBhVUM2sfw.jpg" alt="" /><h2 class="bold">$20 <?php echo do_shortcode( "[wpecpp price='19.99']" ); ?></h2></a>
+        <a href="#"><h2>Orange Tops</h2><img src="https://as1.ftcdn.net/jpg/01/86/88/52/500_F_186885236_aechpiS0x85McEsX0QVBv8vjRGdLRWIr.jpg" alt="" /><h2 class="bold">$15 <?php echo do_shortcode( "[wpecpp price='14.99']" ); ?></h2></a>
 
       </article>
 
       <article class="bottoms">
 
-        <a href="#"><h2>Black Shorts</h2><img src="https://image.shutterstock.com/z/stock-photo-sport-shorts-black-color-front-and-back-view-isolated-on-white-479419078.jpg" alt="" /><h2 class="bold">$20</h2></a>
-        <a href="#"><h2>Red Shorts</h2><img src="https://as1.ftcdn.net/jpg/00/74/62/74/500_F_74627484_h2viCxYgr5t1Z1ynOiBE49gQ9Y7I4axc.jpg" alt="" /><h2 class="bold">$16</h2></a>
-        <a href="#"><h2>Purple Shorts</h2><img src="https://as2.ftcdn.net/jpg/01/63/21/59/500_F_163215910_k6WT2Aw4rBff8cepuWKuogFwA3f8KXtv.jpg" alt="" /><h2 class="bold">$23</h2></a>
-        <a href="#"><h2>Blue Shorts</h2><img src="https://as2.ftcdn.net/jpg/00/67/42/93/500_F_67429362_6bvybeHsRbOITLRsZEmxzHCMJPL1EJcB.jpg" alt="" /><h2 class="bold">$19</h2></a>
+        <a href="#"><h2>Black Shorts</h2><img src="https://image.shutterstock.com/z/stock-photo-sport-shorts-black-color-front-and-back-view-isolated-on-white-479419078.jpg" alt="" /><h2 class="bold">$20 <?php echo do_shortcode( "[wpecpp price='19.99']" ); ?></h2></a>
+        <a href="#"><h2>Red Shorts</h2><img src="https://as1.ftcdn.net/jpg/00/74/62/74/500_F_74627484_h2viCxYgr5t1Z1ynOiBE49gQ9Y7I4axc.jpg" alt="" /><h2 class="bold">$16 <?php echo do_shortcode( "[wpecpp price='15.99']" ); ?></h2></a>
+        <a href="#"><h2>Purple Shorts</h2><img src="https://as2.ftcdn.net/jpg/01/63/21/59/500_F_163215910_k6WT2Aw4rBff8cepuWKuogFwA3f8KXtv.jpg" alt="" /><h2 class="bold">$23 <?php echo do_shortcode( "[wpecpp price='22.99']" ); ?></h2></a>
+        <a href="#"><h2>Blue Shorts</h2><img src="https://as2.ftcdn.net/jpg/00/67/42/93/500_F_67429362_6bvybeHsRbOITLRsZEmxzHCMJPL1EJcB.jpg" alt="" /><h2 class="bold">$19 <?php echo do_shortcode( "[wpecpp price='18.99']" ); ?></h2></a>
 
       </article>
 
       <article class="gear">
 
-        <a href="#"><h2>Sand Racket</h2><img src="https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /><h2 class="bold">$10</h2></a>
-        <a href="#"><h2>Balanced Racket</h2><img src="https://images.pexels.com/photos/1432039/pexels-photo-1432039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /><h2 class="bold">$20</h2></a>
-        <a href="#"><h2>Tennis Balls</h2><img src="https://images.pexels.com/photos/226586/pexels-photo-226586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /><h2 class="bold">$8</h2></a>
+        <a href="#"><h2>Sand Racket</h2><img src="https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /><h2 class="bold">$10 <?php echo do_shortcode( "[wpecpp price='9.99']" ); ?></h2></a>
+        <a href="#"><h2>Balanced Racket</h2><img src="https://images.pexels.com/photos/1432039/pexels-photo-1432039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /><h2 class="bold">$20 <?php echo do_shortcode( "[wpecpp price='19.99']" ); ?></h2></a>
+        <a href="#"><h2>Tennis Balls</h2><img src="https://images.pexels.com/photos/226586/pexels-photo-226586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /><h2 class="bold">$8 <?php echo do_shortcode( "[wpecpp price='7.99']" ); ?></h2></a>
 
       </article>
 

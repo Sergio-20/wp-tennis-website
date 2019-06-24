@@ -115,6 +115,10 @@ Use it to make something cool, have fun, and share what you've learned with othe
   font-size: 5rem;
 }
 
+.paypalbuttonimage {
+  margin: 2rem auto;
+}
+
 .more-info {
   color: #fff;
   font-size: 1.5rem;
