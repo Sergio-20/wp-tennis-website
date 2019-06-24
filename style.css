@@ -75,6 +75,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
   font-size: 4rem !important;
   position: fixed;
   left: 90%;
+  top: 500px;
   z-index: 1;
 }
 
@@ -84,6 +85,19 @@ Use it to make something cool, have fun, and share what you've learned with othe
 
 .bold {
   font-weight: bold;
+}
+
+.go-home {
+  color: lime;
+  font-size: 4rem !important;
+  position: fixed;
+  left: 95%;
+  top: 500px;
+  z-index: 1;
+}
+
+.go-home:hover {
+  color: navy;
 }
 
 .hero-text {
@@ -191,13 +205,30 @@ header ul li, footer ul li {
 
 /******** END OF HEADER AND FOOTER STYLES ********/
 
+hr {
+  background: #333;
+  border: 3px solid #333;
+  color: #333;
+  margin: 10rem auto;
+  width: 50%;
+}
+
 
 /**** Media Queries ****/
+
+@media only screen and ( max-width: 1024px )
+{
+  .back-to-top, .go-home {
+    display: none !important;
+    opacity: 0 !important;
+  }
+}
 
 @media only screen and ( max-width: 480px )
 {
   .nav-categories {
     display: none;
+    opacity: 0;
   }
 
   .nav-icons {

@@ -46,5 +46,6 @@
         </div>
 
         <a href="#"><i class="back-to-top fa fa-caret-square-o-up" aria-hidden="true"></i></a>
+        <a href="./home"><i class="go-home fa fa-home" aria-hidden="true"></i></a>
 
     </header>
